@@ -1,4 +1,4 @@
-# 嵌入式系統實驗作業 (Embedded System Homework)
+# 嵌入式系統實驗作業 1 (Embedded System Lab 1)
 
 本專案包含在 Raspberry Pi 5 上開發的 GPIO 控制實驗，主要使用 `libgpiod` (v2 API) 進行 C 語言開發，並提供 Python 版本作為對照。
 
